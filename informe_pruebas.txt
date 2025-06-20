@@ -1,0 +1,40 @@
+============================================================
+INFORME DE PRUEBAS UNITARIAS - PROGRAMA DESCUENTOS
+============================================================
+Fecha: 2025-06-20 09:39:54
+Duración: 0.007 segundos
+
+RESUMEN DE RESULTADOS:
+------------------------------
+Total de pruebas: 11
+Pruebas exitosas: 11
+Pruebas fallidas: 0
+Porcentaje de éxito: 100.0%
+
+DETALLE DE PRUEBAS:
+------------------------------
+ 1. [✓] test_descuento_basico - PASS
+
+ 2. [✓] test_descuento_cero - PASS
+
+ 3. [✓] test_descuento_completo - PASS
+
+ 4. [✓] test_descuento_decimal - PASS
+
+ 5. [✓] test_descuento_mayor_cien - PASS
+
+ 6. [✓] test_importe_decimal - PASS
+
+ 7. [✓] test_main_argumentos_insuficientes - PASS
+
+ 8. [✓] test_main_argumentos_invalidos - PASS
+
+ 9. [✓] test_main_argumentos_validos - PASS
+
+10. [✓] test_valores_negativos_descuento - PASS
+
+11. [✓] test_valores_negativos_importe - PASS
+
+============================================================
+RESULTADO FINAL: TODAS LAS PRUEBAS PASARON CORRECTAMENTE
+============================================================
